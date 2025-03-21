@@ -1,7 +1,4 @@
-#WEB DEVELOPMENT - CALCULATOR
-(HTML, CSS, JavaScript)
-
-# 📟 Calculator (HTML, CSS, JavaScript)
+#WEB DEVELOPMENT - 📟 Calculator (HTML, CSS, JavaScript)
 
 ## 📌 Overview
 I have developed a **Simple Calculator** using **HTML, CSS, and JavaScript**. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division with a user-friendly interface.
